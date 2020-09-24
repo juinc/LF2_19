@@ -20,6 +20,7 @@ define({
 		{id:30, name:'Bandit', type:'character', file:'data/bandit.js', pic:'sprite/bandit_f.png'},
 		{id: 1, name:'Deep', type:'character', file:'data/deep.js', pic:'sprite/deep_f.png'},
 		{id: 2, name:'John', type:'character', file:'data/john.js', pic:'sprite/john_f.png'},
+		{id:12, name:'Henry', type:'character', file:'data/henry.js', pic:'sprite/henry_f.png'},
 		{id: 6, name:'Louis', type:'character', file:'data/louis.js', pic:'sprite/louis_f.png'},
 		{id: 7, name:'Firen', type:'character', file:'data/firen.js', pic:'sprite/firen_f.png'},
 		{id: 8, name:'Freeze', type:'character', file:'data/freeze.js', pic:'sprite/freeze_f.png'},
