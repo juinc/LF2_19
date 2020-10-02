@@ -52,7 +52,7 @@ define({
 		{id:214, type:'specialattack', file:'data/john_biscuit.js'},
 		{id:215, type:'specialattack', file:'data/dennis_chase.js'},
 		{id:216, type:'specialattack', file:'data/henry_wind.js'},
-		{id:201, type:'specialattack', file:'data/henry_arrow1.js'},
+		{id:201, type:'lightweapon', file:'data/henry_arrow1.js'},
 		{id:208, type:'specialattack', file:'data/henry_arrow2.js'}
 	],
 
