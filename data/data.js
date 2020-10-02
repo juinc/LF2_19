@@ -50,7 +50,10 @@ define({
 		{id:212, type:'specialattack', file:'data/freeze_column.js'},
 		{id:213, type:'lightweapon', file:'data/weapon7.js'}, //ice_sword
 		{id:214, type:'specialattack', file:'data/john_biscuit.js'},
-		{id:215, type:'specialattack', file:'data/dennis_chase.js'}
+		{id:215, type:'specialattack', file:'data/dennis_chase.js'},
+		{id:216, type:'specialattack', file:'data/henry_wind.js'},
+		{id:201, type:'specialattack', file:'data/henry_arrow1.js'},
+		{id:208, type:'specialattack', file:'data/henry_arrow2.js'}
 	],
 
 	AI:
