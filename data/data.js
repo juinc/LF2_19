@@ -20,6 +20,7 @@ define({
 		{id:30, name:'Bandit', type:'character', file:'data/bandit.js', pic:'sprite/bandit_f.png'},
 		{id: 1, name:'Deep', type:'character', file:'data/deep.js', pic:'sprite/deep_f.png'},
 		{id: 2, name:'John', type:'character', file:'data/john.js', pic:'sprite/john_f.png'},
+		{id: 5, name:'Rudolf', type:'character', file:'data/rudolf.js', pic:'sprite/rudolf_f.png'},
 		{id:12, name:'Henry', type:'character', file:'data/henry.js', pic:'sprite/henry_f.png'},
 		{id: 6, name:'Louis', type:'character', file:'data/louis.js', pic:'sprite/louis_f.png'},
 		{id: 7, name:'Firen', type:'character', file:'data/firen.js', pic:'sprite/firen_f.png'},
@@ -53,7 +54,8 @@ define({
 		{id:215, type:'specialattack', file:'data/dennis_chase.js'},
 		{id:216, type:'specialattack', file:'data/henry_wind.js'},
 		{id:201, type:'lightweapon', file:'data/henry_arrow1.js'},
-		{id:208, type:'specialattack', file:'data/henry_arrow2.js'}
+		{id:208, type:'specialattack', file:'data/henry_arrow2.js'},
+		{id:202, type:'lightweapon', file:'data/rudolf_weapon.js'}
 	],
 
 	AI:
