@@ -18,12 +18,13 @@ define({
 	object:
 	[
 		{id:30, name:'Bandit', type:'character', file:'data/bandit.js', pic:'sprite/bandit_f.png'},
+		{id: 51, name:'Julian', type:'character', file:'data/julian.js', pic:'sprite/julian_f.png'},
+    	{id: 50, name:'LouisEX', type:'character', file:'data/louisEX.js', pic:'sprite/louisEX_f.png'},
 		{id: 1, name:'Deep', type:'character', file:'data/deep.js', pic:'sprite/deep_f.png'},
 		{id: 2, name:'John', type:'character', file:'data/john.js', pic:'sprite/john_f.png'},
 		{id: 5, name:'Rudolf', type:'character', file:'data/rudolf.js', pic:'sprite/rudolf_f.png'},
 		{id:12, name:'Henry', type:'character', file:'data/henry.js', pic:'sprite/henry_f.png'},
-    {id: 6, name:'Louis', type:'character', file:'data/louis.js', pic:'sprite/louis_f.png'},
-    {id: 50, name:'LouisEX', type:'character', file:'data/louisEX.js', pic:'sprite/louisEX_f.png'},
+    	{id: 6, name:'Louis', type:'character', file:'data/louis.js', pic:'sprite/louis_f.png'},
 		{id: 7, name:'Firen', type:'character', file:'data/firen.js', pic:'sprite/firen_f.png'},
 		{id: 8, name:'Freeze', type:'character', file:'data/freeze.js', pic:'sprite/freeze_f.png'},
 		{id: 9, name:'Dennis', type:'character', file:'data/dennis.js', pic:'sprite/dennis_f.png'},
@@ -33,9 +34,9 @@ define({
 		{id:100, type:'lightweapon', file:'data/weapon0.js'}, //stick
 		{id:101, type:'lightweapon', file:'data/weapon2.js'}, //hoe
 		{id:150, type:'heavyweapon', file:'data/weapon1.js'}, //stone
-    {id:151, type:'heavyweapon', file:'data/weapon3.js'}, //wooden_box
-    {id:217, type:'heavyweapon', file:'data/weapon10.js'},
-    {id:218, type:'heavyweapon', file:'data/weapon11.js'},
+    	{id:151, type:'heavyweapon', file:'data/weapon3.js'}, //wooden_box
+    	{id:217, type:'heavyweapon', file:'data/weapon10.js'},
+    	{id:218, type:'heavyweapon', file:'data/weapon11.js'},
 
 		{id:300, type:'effect', file:'data/effect0.js'}, //blast
 		{id:301, type:'effect', file:'data/effect1.js'}, //blood
@@ -58,7 +59,9 @@ define({
 		{id:216, type:'specialattack', file:'data/henry_wind.js'},
 		{id:201, type:'lightweapon', file:'data/henry_arrow1.js'},
 		{id:208, type:'specialattack', file:'data/henry_arrow2.js'},
-		{id:202, type:'lightweapon', file:'data/rudolf_weapon.js'}
+		{id:202, type:'lightweapon', file:'data/rudolf_weapon.js'},
+		{id:228, type:'specialattack', file:'data/julian_ball.js'},
+		{id:229, type:'specialattack', file:'data/julian_ball2.js'}
 	],
 
 	AI:
