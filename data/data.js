@@ -19,6 +19,7 @@ define({
 	[
 		{id:30, name:'Bandit', type:'character', file:'data/bandit.js', pic:'sprite/bandit_f.png'},
 		{id: 51, name:'Julian', type:'character', file:'data/julian.js', pic:'sprite/julian_f.png'},
+		{id: 52, name:'Firzen', type:'character', file:'data/firzen.js', pic:'sprite/firzen_f.png'},
     	{id: 50, name:'LouisEX', type:'character', file:'data/louisEX.js', pic:'sprite/louisEX_f.png'},
 		{id: 1, name:'Deep', type:'character', file:'data/deep.js', pic:'sprite/deep_f.png'},
 		{id: 2, name:'John', type:'character', file:'data/john.js', pic:'sprite/john_f.png'},
@@ -61,7 +62,10 @@ define({
 		{id:208, type:'specialattack', file:'data/henry_arrow2.js'},
 		{id:202, type:'lightweapon', file:'data/rudolf_weapon.js'},
 		{id:228, type:'specialattack', file:'data/julian_ball.js'},
-		{id:229, type:'specialattack', file:'data/julian_ball2.js'}
+		{id:229, type:'specialattack', file:'data/julian_ball2.js'},
+		{id:223, type:'specialattack', file:'data/firzen_ball.js'},
+		{id:221, type:'specialattack', file:'data/firzen_chasef.js'},
+		{id:219, type:'specialattack', file:'data/firzen_chasei.js'}
 	],
 
 	AI:
