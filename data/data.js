@@ -67,6 +67,7 @@ define({
 		{id:223, type:'specialattack', file:'data/firzen_ball.js'},
 		{id:219, type:'specialattack', file:'data/jan_chaseh.js'},
 		{id:221, type:'specialattack', file:'data/firzen_chasef.js'},
+		{id:222, type:'specialattack', file:'data/firzen_chasei.js'},
 		{id:224, type:'specialattack', file:'data/bat_ball.js'},
 		{id:225, type:'specialattack', file:'data/bat_chase.js'}
 	],
